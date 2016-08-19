@@ -404,13 +404,13 @@ html{
 }
 .slide3 .span2{
     width: 2.14rem;
-    height: .01rem;
+    height: .02rem;
     left: 1.12rem;
     top: 3.9rem;
 }
 .slide3 .span3{
     width: .84rem;
-    height: .01rem;
+    height: .02rem;
     left: 2.4rem;
     top: 5.6rem;
     -webkit-transform: rotateZ(0deg);
@@ -418,7 +418,7 @@ html{
 }
 .slide3 .span4{
     width: 2.14rem;
-    height: .01rem;
+    height: .02rem;
     left: 1.2rem;
     top: 7.3rem;
     -webkit-transform: rotateZ(28deg);
@@ -599,21 +599,27 @@ html{
     width: 5.58rem;
     height: 1.14rem;
     line-height: .4rem;
-    left: .3rem;
-    top: 5.89rem;
+    /*left: .3rem;*/
+    /*top: 5.89rem;*/
+    left: .2rem;
+    top: 5.8rem;
     color: #ccc;
     background: none;
     font-size: .24rem;
 }
 .slide4 .span11{
     height: 1.52rem;
-    left: .7rem;
-    top: 7.09rem;
+    /*left: .7rem;*/
+    /*top: 7.09rem;*/
+    left: .6rem;
+    top: 7rem;
 }
 .slide4 .span12{
     height: .76rem;
-    left: 1.1rem;
-    top: 8.69rem;
+    /*left: 1.1rem;*/
+    /*top: 8.69rem;*/
+    left: .9rem;
+    top: 8.6rem;
 }
 #page4 .span1{
     -webkit-animation: bounceInLeft1 1s ease .2s 1 both;
@@ -659,7 +665,7 @@ html{
     letter-spacing: normal;
 }
 .slide5 .span2{
-    left: 3.5rem;
+    left: 3.3rem;
     top: 1.22rem;
     font-size: .32rem;
     letter-spacing: normal;
